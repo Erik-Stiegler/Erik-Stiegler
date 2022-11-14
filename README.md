@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erik-Stiegler
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning hierarchical linear models
+- 👀 I’m working as a data science in the media industry
+- 🌱 I’m currently learning marketing mix modeling
 - 📫 How to reach me - Erik.l.stiegler@gmail.com
 
 <!---
