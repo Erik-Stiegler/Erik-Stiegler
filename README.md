@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erik-Stiegler
-- 👀 I’m working as a data science in the media industry
-- 🌱 I’m currently learning marketing mix modeling
+- 👀 I’m working as a data analyst in the telecom industry
+- 🌱 I’m currently learning Text mining
 - 📫 How to reach me - Erik.l.stiegler@gmail.com
 
 <!---
