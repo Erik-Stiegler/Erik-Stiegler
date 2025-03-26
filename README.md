@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erik-Stiegler
-- :telephone_receiver: I’m working as a data scientist in the telecommunications industry
+- I’m working as a Data Engineer consultant.
 - 🌱 I’m currently learning text mining
 - 📫 How to reach me - Erik.l.stiegler@gmail.com
 
