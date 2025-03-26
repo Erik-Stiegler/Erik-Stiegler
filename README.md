@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Erik-Stiegler
-- I’m working as a Data Engineer consultant.
-- 🌱 I’m currently learning text mining
+- 🏢 I’m working as a Data Engineer consultant.
 - 📫 How to reach me - Erik.l.stiegler@gmail.com
 
 <!---
